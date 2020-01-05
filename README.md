@@ -16,7 +16,7 @@ blue,red color totoally.healthy,unhealthy and four categories of each kind of pl
 - Mission
 	- Differentiate the color and category of plant.
 - DataSet
-	- red plant images, consisting of 1000 each of unhealthy, 1400 healthy plant images.
+	- red plant images, consisting of unhealthy 1000 each, healthy 1400 each plant images.
 - Implementation:
 	- foreground extraction, Canny operator, SVM(Support Vector Machine)
 - Language:C++

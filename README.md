@@ -14,7 +14,7 @@
 blue and red color,healthy and unhealthy plants,four categories of a kind of plants.
 
 - Mission
-	- Differentiate the color of plant and category
+	- Differentiate the color and category of plant 
 - DataSet
 	- red plant images, consisting of 1000 each of unhealthy, 1400 healthy plant images.
 - Implementation:

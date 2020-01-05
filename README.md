@@ -8,7 +8,7 @@
 - 实现方法
 	- 前景提取，Canny算子，SVM(Support Vector Machine)分类 
 - 编程语言
- 	- C++,Python，Python开发算法，C++具体实现 
+ 	- C++,C++具体实现 
 
 <h3>Two colors, four categories of plant classification model</h3>
 blue,red color totoally.healthy,unhealthy and four categories of each kind of plant.
@@ -19,4 +19,4 @@ blue,red color totoally.healthy,unhealthy and four categories of each kind of pl
 	- red plant images, consisting of 1000 each of unhealthy, 1400 healthy plant images.
 - Implementation:
 	- foreground extraction, Canny operator, SVM(Support Vector Machine)
-- Language:C++,Python
+- Language:C++

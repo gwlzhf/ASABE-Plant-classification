@@ -11,10 +11,10 @@
  	- C++,Python，Python开发算法，C++具体实现 
 
 <h3>Two colors, four categories of plant classification model</h3>
-blue and red color,healthy and unhealthy plants,four categories of a kind of plants.
+blue,red color totoally.healthy,unhealthy and four categories of each kind of plant.
 
 - Mission
-	- Differentiate the color and category of plant 
+	- Differentiate the color and category of plant.
 - DataSet
 	- red plant images, consisting of 1000 each of unhealthy, 1400 healthy plant images.
 - Implementation:
